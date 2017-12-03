@@ -58,3 +58,5 @@ var loadWebPage =  function() {
 }
 
 loadWebPage();
+
+var codeId = document.getElementById("code-id").focus();
